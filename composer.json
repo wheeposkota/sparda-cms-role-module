@@ -1,9 +1,9 @@
 {
-    "name": "yutawhee/sparda-cms-role-module",
+    "name": "wheeposkota/sparda-cms-role-module",
     "type": "laravel-module",
     "description": "",
     "require": {
-        "yutawhee/sparda-cms-core-module": "dev-master"
+        "wheeposkota/sparda-cms-core-module": "dev-master"
     },
     "extra": {
         "laravel": {
